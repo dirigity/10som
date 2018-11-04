@@ -1,0 +1,14 @@
+{
+  "name": "10tom",
+  "version": "1.0.0",
+  "description": "10 seconds of math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime González Fábregas",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
